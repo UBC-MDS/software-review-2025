@@ -1,6 +1,6 @@
 ---
 name: submit-R-package-for-review.md
-about: Use this template to submit R package for review
+about: Use this template to submit a R package for review
 title: ''
 labels: ''
 assignees: ''
