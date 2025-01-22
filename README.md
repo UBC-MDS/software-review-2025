@@ -4,6 +4,7 @@ This repository is the home to the UBC Master of [Data Science Collaborative Sof
 
 ## Editors
 - [Tiffany Timbers](https://www.tiffanytimbers.com/)
+- [Daniel Chen](https://daniel.rbind.io/)
 
 ## Attribution
 
