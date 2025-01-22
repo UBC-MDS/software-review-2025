@@ -112,12 +112,6 @@ Confirm each of the following by checking the box.
 - [ ] I have read the [author guide](https://www.pyopensci.org/software-peer-review/how-to/author-guide.html). 
 - [ ] I expect to maintain this package for at least 2 years and can help find a replacement for the maintainer (team) if needed.
 
-## Please fill out our survey
-
-- [ ] [Last but not least please fill out our pre-review survey](https://forms.gle/F9mou7S3jhe8DMJ16). This helps us track
-submission and improve our peer review process. We will also ask our reviewers 
-and editors to fill this out.
-
 **P.S.** Have feedback/comments about our review process? Leave a comment [here][Comments]
 
 ## Editor and Review Templates
